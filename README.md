@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbdelmomenMustafa](https://github.com/AbdelmomenMustafa)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdelmomen-mostafa-0199171b6/](https://www.linkedin.com/in/abdelmomen-mostafa-0199171b6/))
+- 📝 I regularly write articles on [https://www.linkedin.com/in/abdelmomen-mostafa-0199171b6/](https://www.linkedin.com/in/abdelmomen-mostafa-0199171b6/)
 
 - 💬 Ask me about **Cleaning Data, python, Data Visiolaization**
 
