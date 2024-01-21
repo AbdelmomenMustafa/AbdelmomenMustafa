@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdelmomen-mostafa-0199171b6/](https://www.linkedin.com/in/abdelmomen-mostafa-0199171b6/)
 
-- 💬 Ask me about **SQL, Exceo, Cleaning Data, python, Data Visualization, Power BI**
+- 💬 Ask me about **SQL, Excel, Cleaning Data, Python, Data Visualization, Power BI**
 
 - 📫 How to reach me **eng.abdelmomen.mostafa@gmail.com**
 
