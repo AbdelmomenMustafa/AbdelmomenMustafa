@@ -9,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/abdelmomen-mostafa-0199171b6/](https://www.linkedin.com/in/abdelmomen-mostafa-0199171b6/)
 
-- 💬 Ask me about **Cleaning Data, python, Data Visiolaization**
+- 💬 Ask me about **SQL, Exceo, Cleaning Data, python, Data Visualization, Power BI**
 
-- 📫 How to reach me **AbdulMomen20208155@fci.helwan.edu.eg**
+- 📫 How to reach me **eng.abdelmomen.mostafa@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/151PGF51YL6XgD-xYC3IHe2QgjtMdYDSn/view?usp=sharing](https://drive.google.com/file/d/151PGF51YL6XgD-xYC3IHe2QgjtMdYDSn/view?usp=sharing)
 
