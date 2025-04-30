@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name isAbdelmomen<br>I'm a Data Scientist, from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Abdelmomen<br>I'm a Data Scientist, from Egypt</h2>
 
 
 - ⚡ Fun fact: I love to draw and play calisthenics 💪
